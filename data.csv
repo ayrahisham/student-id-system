@@ -1,0 +1,21 @@
+first_name,last_name,student_id,CSIT110,CSIT121,CSIT135,CSIT142,Rule to test,Expected output
+CFN,CLN,S1023456I,54,78,65,54,Invalid last letter,S1023456H
+VER,EWA,S9812345O,41,76,65,65,Invalid last letter,S9812345E
+FEW,DWQ,S1836430I,42,87,87,87,Invalid last letter,S1836430L
+VEW,FEW,S9362517E,90,56,98,53,Invalid last letter,S9362517C
+EWQ,RED,S6172932P,98,87,76,65,Invalid last letter,S6172932L
+FEW,FEW,S8721923V,43,64,65,56,Invalid last letter,S8721923K
+STU,VWX,S1234567A,45,65,65,56,Invalid last letter,S1234567I
+DFN,DLN,S123A,54,56,65,43,Length is not 9,The length should be 9
+GHI,JFA,SR231R,48,54,54,87,Length is not 9,The length should be 9
+PYT,ONT,S98172R,34,34,98,65,Length is not 9,The length should be 9
+ABC,DEF,S12A67UIA,23,45,67,21,Must contain 7 numbers,Contains 7 numbers between the two letters
+MNO,PQR,S123456IA,44,87,42,76,Must contain 7 numbers,Contains 7 numbers between the two letters
+FER,REW,A321PUIEA,49,32,43,65,"Must start with a letter ""S""",Starts with a letter “S”
+GHI,JKL,T1234567E,43,87,11,87,"Must start with a letter ""S""",Starts with a letter “S”
+YZA,BCA,S9876543P,46,45,76,54,Valid student ID,-
+CDE,FGE,S7612340I,47,90,76,76,Valid student ID,-
+QWE,EEW,S7382612E,54,54,64,87,Valid student ID,-
+AFN,ALN,S1012342D,89,67,54,78,Valid student ID,-
+BFN,BLN,S1014322H,87,78,86,67,Valid student ID,-
+DER,TEN,S1234567I,67,54,56,64,Valid student ID,-
